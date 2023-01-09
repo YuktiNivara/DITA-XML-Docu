@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>End user guide for calculator app</title>
+    <topichead navtitle="Launch calculator app">
+        <topicref href="what_is_a_calculator.dita"/>
+        <topicref href="how_to_launch_a_calculator_app.dita"/>
+    </topichead>
+</map>

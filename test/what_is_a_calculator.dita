@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="what_is_a_calculator">
+    <title>What is a calculator?</title>
+    <shortdesc>Here you will learn about the calculator app.</shortdesc>
+    <conbody>
+        <p>Calculator is an app used for making mathematical calculations, in particular a small
+            electronic device with a keyboard and a visual display.</p>
+    </conbody>
+</concept>
